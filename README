@@ -1,0 +1,3 @@
+Lists all of the Metal supported GPUs.
+
+Execute it with `swift run` inside the directory.
